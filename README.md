@@ -1,9 +1,10 @@
 # sql-challenge
 
-###In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
-###1. Data Engineering
+In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
-3. Data Analysis
+1. Data Engineering
+
+2. Data Analysis
 
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
